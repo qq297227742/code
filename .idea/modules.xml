@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Net_study/Net_study.iml" filepath="$PROJECT_DIR$/Net_study/Net_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" filepath="$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestDynamicCompile/TestDynamicCompile.iml" filepath="$PROJECT_DIR$/TestDynamicCompile/TestDynamicCompile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestJavassist/TestJavassist.iml" filepath="$PROJECT_DIR$/TestJavassist/TestJavassist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestReflection/TestReflection.iml" filepath="$PROJECT_DIR$/TestReflection/TestReflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread_Study/Thread_Study.iml" filepath="$PROJECT_DIR$/Thread_Study/Thread_Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testORM/testORM.iml" filepath="$PROJECT_DIR$/testORM/testORM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjdbc/testjdbc.iml" filepath="$PROJECT_DIR$/testjdbc/testjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/容器/容器.iml" filepath="$PROJECT_DIR$/容器/容器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/测试类加载全过程/测试类加载全过程.iml" filepath="$PROJECT_DIR$/测试类加载全过程/测试类加载全过程.iml" />
+      <module fileurl="file://$PROJECT_DIR$/测试脚本引擎Rhino/测试脚本引擎Rhino.iml" filepath="$PROJECT_DIR$/测试脚本引擎Rhino/测试脚本引擎Rhino.iml" />
     </modules>
   </component>
 </project>
