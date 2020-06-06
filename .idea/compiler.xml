@@ -14,6 +14,7 @@
     <bytecodeTargetLevel>
       <module name="code" target="1.5" />
       <module name="IO" target="1.5" />
+      <module name="mvc" target="8" />
       <module name="Net_study" target="6" />
       <module name="Thread_Study" target="1.5" />
     </bytecodeTargetLevel>

@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/TestReflection/TestReflection.iml" filepath="$PROJECT_DIR$/TestReflection/TestReflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread_Study/Thread_Study.iml" filepath="$PROJECT_DIR$/Thread_Study/Thread_Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloservlet/helloservlet.iml" filepath="$PROJECT_DIR$/helloservlet/helloservlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/testORM/testORM.iml" filepath="$PROJECT_DIR$/testORM/testORM.iml" />
       <module fileurl="file://$PROJECT_DIR$/testjdbc/testjdbc.iml" filepath="$PROJECT_DIR$/testjdbc/testjdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />

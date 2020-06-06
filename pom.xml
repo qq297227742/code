@@ -11,6 +11,7 @@
     <modules>
         <module>Thread_Study</module>
         <module>Net_study</module>
+        <module>mvc</module>
     </modules>
     <dependencies>
         <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
