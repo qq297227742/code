@@ -12,11 +12,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="code" target="1.5" />
-      <module name="IO" target="1.5" />
+      <module name="code" target="8" />
+      <module name="cookie" target="8" />
+      <module name="IO" target="8" />
       <module name="mvc" target="8" />
-      <module name="Net_study" target="6" />
-      <module name="Thread_Study" target="1.5" />
+      <module name="Net_study" target="8" />
+      <module name="Thread_Study" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

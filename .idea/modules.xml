@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ELandJSTL/ELandJSTL.iml" filepath="$PROJECT_DIR$/ELandJSTL/ELandJSTL.iml" />
       <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
       <module fileurl="file://$PROJECT_DIR$/Net_study/Net_study.iml" filepath="$PROJECT_DIR$/Net_study/Net_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" filepath="$PROJECT_DIR$/TestAnnotation/TestAnnotation.iml" />
@@ -11,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/TestReflection/TestReflection.iml" filepath="$PROJECT_DIR$/TestReflection/TestReflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread_Study/Thread_Study.iml" filepath="$PROJECT_DIR$/Thread_Study/Thread_Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cookie/cookie.iml" filepath="$PROJECT_DIR$/cookie/cookie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filter/filter.iml" filepath="$PROJECT_DIR$/filter/filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filterAuthoritiy/filterAuthoritiy.iml" filepath="$PROJECT_DIR$/filterAuthoritiy/filterAuthoritiy.iml" />
       <module fileurl="file://$PROJECT_DIR$/helloservlet/helloservlet.iml" filepath="$PROJECT_DIR$/helloservlet/helloservlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
       <module fileurl="file://$PROJECT_DIR$/testORM/testORM.iml" filepath="$PROJECT_DIR$/testORM/testORM.iml" />
